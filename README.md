@@ -1,8 +1,2 @@
 ### Group 5 
-## Team members
-1. shelby
-1. noah
-1. trent
-[GitHub](http://github.com)
-
-<a href="index.html">help</a>
+This is my testing document to make sure i know hwat im doing and try to format the way i'd like
