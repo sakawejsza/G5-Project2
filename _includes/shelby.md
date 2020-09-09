@@ -1,10 +1,11 @@
-#Shelby Kawejsza 
-##(736) 598 1272 | ShelbyKay@hotmail.com
+# Shelby Kawejsza 
+## (736) 598 1272 | ShelbyKay@hotmail.com
 
-##Summary of Koalafications______________________________________________________ 
-###Skillz: 
+## Summary of Koalafications:
+### Skillz______________________________________________________________________ 
 * Really good at recognizing a song but not being able to name the artist or song 
-* I bake good..mostly but I'll share • Perfectionist with a ken I for details 
+* I bake good..mostly but I'll share
+* Perfectionist with a ken I for details 
 * I can google like a pro 
 * I can ride a bicycle...I think.. it's been a while 
 * Fluent in English. Also I have been heard muttering Gibberish in my sleep 
@@ -14,12 +15,12 @@
 * I can almost always tell which dinosaurs in movies are fake. 
 * Able to button mash super well when playing video games
 
-Education_____________________________________________________________________ 
-Texas A&M University                   Expected Graduation Date: August 2021 
-Major: Technology Management 
-Minors: Business and Cyber Security
+### Education_____________________________________________________________________ 
+#### Texas A&M University                   Expected Graduation Date: August 2021 
+#### Major: Technology Management 
+#### Minors: Business and Cyber Security
 
-Experience____________________________________________________________________ 
+### Experience____________________________________________________________________ 
 * Computer Wizard 
 * She Who Gets Shit Done 
   * Completing work right on time always, even if it seems impossible. 
