@@ -1,7 +1,8 @@
-Shelby Kawejsza (736) 598 1272 | ShelbyKay@hotmail.com
+#Shelby Kawejsza 
+##(736) 598 1272 | ShelbyKay@hotmail.com
 
-Summary of Koalafications______________________________________________________ 
-Skillz: 
+##Summary of Koalafications______________________________________________________ 
+###Skillz: 
 * Really good at recognizing a song but not being able to name the artist or song 
 * I bake good..mostly but I'll share • Perfectionist with a ken I for details 
 * I can google like a pro 
