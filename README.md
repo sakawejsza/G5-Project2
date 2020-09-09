@@ -4,3 +4,5 @@
 1. noah
 1. trent
 [GitHub](http://github.com)
+
+<a href="index.html">help</a>
