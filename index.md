@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Group 5
-[here](#Shelby Kawejsza)
+[here](#shelby-kawejsza)
 * f
 * f
 * f
