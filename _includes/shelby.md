@@ -2,6 +2,7 @@
 ###### (736) 598 1272 | ShelbyKay@hotmail.com
 
 ## Summary of Koalafications:
+--------------------------------------------------------------------------------
 ### Skillz______________________________________________________________________ 
 * Really good at recognizing a song but not being able to name the artist or song 
 * I bake good..mostly but I'll share
@@ -16,7 +17,7 @@
 * Able to button mash super well when playing video games
 
 ### Education_____________________________________________________________________ 
-##### Texas A&M University                   ##### Expected Graduation Date: August 2021 
+##### Texas A&M University                  Expected Graduation Date: August 2021 
 ##### Major: Technology Management 
 ##### Minors: Business and Cyber Security
 
