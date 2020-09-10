@@ -2,9 +2,8 @@
 layout: default
 ---
 
-## Group 5
 {% include Members.md %}
-[Shelby](#shelby-kawejsza)
+
 # one
 ## two
 ### three
@@ -15,10 +14,6 @@ layout: default
 
 
 
-
-
-
-this doesnt even make sense but hopefully it works
 ### Shelby Kawejsza
 {% include shelby.md %}
 <br>
@@ -30,11 +25,12 @@ this doesnt even make sense but hopefully it works
 ### Trent
 {% include trent.md %}
 <br>
+
 ### Matthew
 {% include Matthew.md %}
 <br>
 
-### ricardo
+### Ricardo
 {% include Ricardo.md %}
 <br>
 
@@ -42,6 +38,6 @@ this doesnt even make sense but hopefully it works
 {% include Amy.md %}
 <br>
 
-### mubtasim
+### Mubtasim
 {% include Mubtasim.md %}
 
