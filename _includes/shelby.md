@@ -26,7 +26,7 @@
 * Computer Wizard 
 * She Who Gets Shit Done 
   *Completing work right on time always, even if it seems impossible. 
-*Her Supreme Omniscience 
+* Her Supreme Omniscience 
   * Answering questions about anything from anyone at a helpdesk. 
-*Cat Whisperer 
+* Cat Whisperer 
   * They just seem to like me
