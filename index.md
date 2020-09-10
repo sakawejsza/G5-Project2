@@ -4,7 +4,6 @@ layout: default
 
 ## Group 5
 Shelby here: [here](#shelby-kawejsza)
-[here](#noah)
 # one
 ## two
 ### three
@@ -13,7 +12,7 @@ Shelby here: [here](#shelby-kawejsza)
 ###### six
 
 {% include members.md %}
-
+<br>
 
 
 
@@ -31,17 +30,3 @@ this doesnt even make sense but hopefully it works
 {% include Trent.md %}
 <br>
 
-### Matthew
-{% include Matthew.md %}
-<br>
-
-### ricardo
-{% include Ricardo.md %}
-<br>
-
-### Amy
-{% include Amy.md %}
-<br>
-
-### mubtasim
-{% include Mubtasim.md %}
