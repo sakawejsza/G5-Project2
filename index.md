@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## Group 5
-Shelby here: [Shelby](#shelby-kawejsza)
-[noah](#noah)
+Shelby here: [here](#shelby-kawejsza)
+[here](#noah)
 # one
 ## two
 ### three
@@ -13,42 +13,9 @@ Shelby here: [Shelby](#shelby-kawejsza)
 ###### six
 
 {% include members.md %}
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
-* f
+
+
+
 
 
 this doesnt even make sense but hopefully it works
