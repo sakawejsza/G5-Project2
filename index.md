@@ -11,8 +11,8 @@ Shelby here: [here](#shelby-kawejsza)
 ##### five
 ###### six
 
-{% include members.md %}
-<br>
+
+
 
 
 
@@ -27,6 +27,6 @@ this doesnt even make sense but hopefully it works
 <br>
 
 ### Trent
-{% include Trent.md %}
+{% include trent.md %}
 <br>
 
