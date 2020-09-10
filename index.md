@@ -54,8 +54,8 @@ Shelby here: [Shelby](#shelby-kawejsza)
 this doesnt even make sense but hopefully it works
 ### Shelby Kawejsza
 {% include shelby.md %}
-
 <br>
+
 ### Noah
 {% include noah.md %}
 <br>
