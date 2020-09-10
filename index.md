@@ -4,7 +4,7 @@ layout: default
 
 ## Group 5
 {% include Members.md %}
-[here](#shelby-kawejsza)
+[Shelby](#shelby-kawejsza)
 # one
 ## two
 ### three
