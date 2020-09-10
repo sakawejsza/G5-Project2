@@ -15,7 +15,7 @@
 - Name: Shelby Kawejsza
 - Position:TBA
 
-- Name: Trent Secton
+- Name: [Trent Sexton](#trent)
 - Position:
 
 - Name: Noah Woinicki
