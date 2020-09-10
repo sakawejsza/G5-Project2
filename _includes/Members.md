@@ -1,22 +1,22 @@
 ## Group 5 Team Member Names
 
-- Name: Amy He
+- Name: [Amy He](#amy)
 - Position: Contributor
 
-- Name: Matthew Phillips
+- Name: [Matthew Phillips](#matthew)
 - Position: TBA
 
-- Name: Ricardo Duenez
+- Name: [Ricardo Duenez](#ricardo)
 - Position: Ops
 
-- Name: Mubtasim Abrar
+- Name: [Mubtasim Abrar](#mubtasim)
 - Position: Contributer
 
-- Name: Shelby Kawejsza
+- Name: [Shelby Kawejsza](#shelby-kawejsza)
 - Position:TBA
 
 - Name: [Trent Sexton](#trent)
 - Position:
 
-- Name: Noah Woinicki
+- Name: [Noah Woinicki](#noah)
 - Position: Communicaitons
