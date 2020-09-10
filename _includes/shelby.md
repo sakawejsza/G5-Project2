@@ -1,8 +1,8 @@
  
 ###### (736) 598 1272 | ShelbyKay@hotmail.com
 
-## Summary of Koalafications:
---------------------------------------------------------------------------------
+#### Summary of Koalafications:
+
 ### Skillz______________________________________________________________________ 
 * Really good at recognizing a song but not being able to name the artist or song 
 * I bake good..mostly but I'll share
@@ -22,10 +22,10 @@
 ##### Minors: Business and Cyber Security
 
 ### Experience____________________________________________________________________ 
-* Computer Wizard 
-* She Who Gets Shit Done 
+#### Computer Wizard 
+#### She Who Gets Shit Done 
   * Completing work right on time always, even if it seems impossible. 
-* Her Supreme Omniscience 
+#### Her Supreme Omniscience 
   * Answering questions about anything from anyone at a helpdesk. 
-* Cat Whisperer 
+#### Cat Whisperer 
   * They just seem to like me
