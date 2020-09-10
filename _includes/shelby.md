@@ -1,3 +1,6 @@
+ layout: page
+ title: "shelby"
+ permalink:https://sakawejsza.github.io/G5-Project2/_includes/
  
 ###### (736) 598 1272 | Sak123@tamu.edu
 
