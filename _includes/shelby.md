@@ -1,5 +1,5 @@
  
-###### (736) 598 1272 | ShelbyKay@hotmail.com
+###### (736) 598 1272 | Sak123@tamu.edu
 
 #### Summary of Koalafications:
 
@@ -17,15 +17,16 @@
 * Able to button mash super well when playing video games
 
 ### Education_____________________________________________________________________ 
-##### Texas A&M University                  Expected Graduation Date: August 2021 
+##### Texas A&M University                  
+   Expected Graduation Date: August 2021 
 ##### Major: Technology Management 
 ##### Minors: Business and Cyber Security
 
 ### Experience____________________________________________________________________ 
-#### Computer Wizard 
-#### She Who Gets Shit Done 
-  * Completing work right on time always, even if it seems impossible. 
-#### Her Supreme Omniscience 
+* Computer Wizard 
+* She Who Gets Shit Done 
+  *Completing work right on time always, even if it seems impossible. 
+*Her Supreme Omniscience 
   * Answering questions about anything from anyone at a helpdesk. 
-#### Cat Whisperer 
+*Cat Whisperer 
   * They just seem to like me
