@@ -61,7 +61,7 @@ this doesnt even make sense but hopefully it works
 <br>
 
 ### Trent
-{% include trent.md %}
+{% include Trent.md %}
 <br>
 
 ### Matthew
@@ -69,12 +69,12 @@ this doesnt even make sense but hopefully it works
 <br>
 
 ### ricardo
-{% include ricardo.md %}
+{% include Ricardo.md %}
 <br>
 
 ### Amy
-{% include amy.md %}
+{% include Amy.md %}
 <br>
 
 ### mubtasim
-{% include mubtasim.md %}
+{% include Mubtasim.md %}
