@@ -30,4 +30,18 @@ this doesnt even make sense but hopefully it works
 ### Trent
 {% include trent.md %}
 <br>
+### Matthew
+{% include Matthew.md %}
+<br>
+
+### ricardo
+{% include Ricardo.md %}
+<br>
+
+### Amy
+{% include Amy.md %}
+<br>
+
+### mubtasim
+{% include Mubtasim.md %}
 
