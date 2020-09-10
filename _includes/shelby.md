@@ -1,5 +1,5 @@
-# Shelby Kawejsza 
-## (736) 598 1272 | ShelbyKay@hotmail.com
+ 
+###### (736) 598 1272 | ShelbyKay@hotmail.com
 
 ## Summary of Koalafications:
 ### Skillz______________________________________________________________________ 
@@ -16,9 +16,9 @@
 * Able to button mash super well when playing video games
 
 ### Education_____________________________________________________________________ 
-#### Texas A&M University                   Expected Graduation Date: August 2021 
-#### Major: Technology Management 
-#### Minors: Business and Cyber Security
+##### Texas A&M University                   ##### Expected Graduation Date: August 2021 
+##### Major: Technology Management 
+##### Minors: Business and Cyber Security
 
 ### Experience____________________________________________________________________ 
 * Computer Wizard 
