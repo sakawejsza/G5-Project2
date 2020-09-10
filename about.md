@@ -3,7 +3,7 @@ layout: default
 ---
 [shelby](https://sakawejsza.github.io/G5-Project2/_includes)
 
-{% include Members.md %}
+{% include Members.txt %}
 
 # one
 ## two
