@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Group 5
-Shelby here: [here](#shelby-kawejsza)
+[here](#shelby-kawejsza)
 # one
 ## two
 ### three
